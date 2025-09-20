@@ -1,3 +1,3 @@
 module github.com/Blackwoodenoc/hello-golang
 
-go 1.24.6
+go 1.22.12
